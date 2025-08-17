@@ -1,8 +1,8 @@
 //1.
 let firstName = "Ali";
-let lastName = "Hassan";
+let lastName = " Hassan";
 let fullName = firstName + lastName;
-alert(fullName); // Output: Ali Hassan
+alert(fullName); // Output: Ali hassan
 
 //2.
 var a = "5";
@@ -71,6 +71,3 @@ var result = x * 2 + 5 - 3;
 console.log(result);
 // result = 10 * 2 = 20 → 20 + 5 = 25 → 25 - 3 = 22
 // Output: 22
-
-
-
